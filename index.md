@@ -1,7 +1,5 @@
 # ProductivityTools Tech Bricks
 
-![TechBricks](./Images/Icon/TechBricks.png)
-
 - Flashcards -
 - Web -
 - Shortcuts -
@@ -10,3 +8,6 @@
 
 
 ![HLObjects](./Images/Arch.png)
+
+
+![TechBricks](./Images/Icon/TechBricks.png)
